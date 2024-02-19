@@ -1,0 +1,39 @@
+
+body{
+    background-color: #D6E1FF;
+    
+}
+.hero{
+  background-color: white;
+  width: 450px;
+  height: 697px;
+  left: 50%;
+
+}
+.order{
+    font-family: "Red Hat Display", sans-serif;
+    color: #1F2E55;
+    
+ }
+.ababa{
+    font-family: "Red Hat Display", sans-serif;
+    color:#717FA6
+}
+.div2{
+    background-color: red;
+    width: 354px;
+    height: 98px
+}
+.anual{
+    margin-left: 100px
+}
+.dollar{
+    margin-left: 100px;
+}
+#music{
+    margin-top: -100px;
+
+}
+
+
+
