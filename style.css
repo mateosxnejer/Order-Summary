@@ -7,7 +7,10 @@ body{
   background-color: white;
   width: 450px;
   height: 697px;
-  left: 50%;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  margin-top: 100px;
 
 }
 .order{
@@ -17,23 +20,68 @@ body{
  }
 .ababa{
     font-family: "Red Hat Display", sans-serif;
-    color:#717FA6
+    color:#717FA6;
+    size: 16px;
 }
 .div2{
-    background-color: red;
+    /* background-color: #F7F9FF;
     width: 354px;
-    height: 98px
+    height: 98px;
+    margin-left: 40px;
+    margin-top: 20px;
+    float: inline-start; */
+    width: 354px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 100px;
 }
+
 .anual{
-    margin-left: 100px
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -30px;
+
 }
 .dollar{
-    margin-left: 100px;
+    position: absolute;
+    margin-left: 101px;
+    margin-top: -10px;
+  
 }
 #music{
     margin-top: -100px;
+    margin-left: 20px;
+}
+#link{
+    margin-left: 200px;
+    color: blue;
+   
+    
+}
+#gmiri{
+    border-radius: 10px 10px 0px 0px
+}
+.knopka{
+    width:354px;
+    height: 50px;
+    background-color: #382AE1;
+    color: #FFFFFF;
+    border: #382AE1;
+    border-radius: 10px;
+    font-size: 1em;
+    margin-top: 80px;
 
 }
-
-
-
+.knopka:hover{
+    background-color:  #766CF1;
+}
+#order{
+    color:rgba(104, 113, 158, 0.691);
+    margin-top: 30px;
+}
+#link:hover{
+    color: blue;
+}
+.footer{
+    margin-top: 110px;
+}
